@@ -1,3 +1,2 @@
 # NP
-gm
 love stark
