@@ -1,3 +1,2 @@
 # NP
 love stark
-Perseus
